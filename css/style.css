@@ -1,0 +1,158 @@
+@import url(https://fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic,700italic);
+body{
+    margin:0;
+    font-family:"Gentium Basic", sans-serif;}
+html {
+    overflow-x: hidden; }
+div.title{
+    position:absolute;
+    top:530px;
+    left:335px;}
+div.h1{display:block;
+       position:relative;
+       top:5px}
+.arthur{
+    position:relative;
+    bottom:45px;
+    left:192px}
+h1{
+    font-size: 60px;
+    font-weight: normal;
+    margin-bottom:0;
+    color:white;}
+h2{
+    font-size: 30px;
+    font-style: italic;
+    display:inline-block;
+    border-bottom: 2px solid white;
+    font-weight: normal;
+    color:#d7d7d3;
+    margin-top:0;
+    margin-bottom:0;
+    padding-bottom:5px;
+    padding-right:380px}
+h3{
+    font-size: 13px;
+    font-weight: 400;
+    color:#d7d7d3;
+    margin-top:25px;
+    margin-bottom:5px}
+h4{
+    font-size: 15px;
+    font-weight: 700;
+    margin-top:0;
+    color:white;}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+}
+div.icons{
+    position:relative;
+    bottom:75px;
+    left:600px;}
+div.icons a{
+    display: inline-block;
+    color:#fff;
+    margin-right:20px;}
+div.header{
+    position:relative;
+    bottom:794px;
+    right:8px;}
+p{
+    font-size:22px;
+    line-height:40px;
+    display:inline-block;
+    margin:45px 330px 0;}
+
+blockquote{
+    padding: 15px 0 0 0;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: #626262;
+    font-weight: 400;
+    margin-bottom:0}
+blockquote:before, blockquote:after {
+    font-size: 30px;
+    color: #626262;  }
+blockquote:before {
+    content: '"';
+    margin-top: -5px;  }
+blockquote:after {
+    content: '"';
+    margin-top: -5px;
+}
+p.dot{
+    margin-left: 360px }
+a.back{
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    color:#a8a8a8;
+    font-size:12px;
+    letter-spacing: 2px;
+    font-weight:600;
+    margin:40px 0;
+}
+i.fa-angle-up{
+    font-size:20px;}
+div.shared{
+    position:relative;}
+div.shared a{
+    color:#2ecc71;
+    display:block;
+    border:2px solid #2ecc71;
+    border-radius:30px;
+    text-align:center;
+    text-decoration: none;
+    padding:20px;
+    width:160px !important;
+    font-size:14px;
+    position:absolute;
+    bottom:100px;
+    right:575px;
+    font-weight: 600;}
+div.footer{
+    position: absolute;
+    bottom:-2372px;}
+div.l{
+    float:left;
+    width:670px;
+    height:350px}
+div.r{
+    float:right;
+    width:650px;}
+div.text{
+    position: absolute;
+    left:70px;
+    top:70px;}
+div.text1{
+    position: absolute;
+    left:740px;
+    top:70px;}
+.next{
+    font-size: 15px;
+    font-weight: 700;
+    color:white;
+    margin-bottom:20px;
+    display:block}
+.sea{
+    font-size: 35px;
+    font-weight: normal;
+    color:white;
+}
+.line{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: normal;
+    color:#d7d7d3;
+    display: block;
+    margin-top: 5px;
+}
+
+
+
+
+
